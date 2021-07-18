@@ -1,5 +1,3 @@
-# s2i_wp_project
-
 <h1>s2i_wp_project</h1>
 
 <p> Progetto WordPress start 2 impact</p>
