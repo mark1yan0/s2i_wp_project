@@ -27,9 +27,9 @@ Non è presente molto contenuto ma ho cercado di rendere il tutto il più intera
 <p>L'intero sito è stato creato in HTML, il minimo necessario di php, CSS e JavaScript. Per alcune funzionalità ho dovuto sfruttare plugin e una libreria.</p>
 
 <ul>
-    <li><a href="#">Contact form: plugin WPForms lite</a></li>
-    <li><a href="#">Mappa: WP Google Maps</a></li>
-    <li><a href="#">Carosello dei loghi: slick.js</a></li>
+    <li><a href="https://wpforms.com/ppc_wordpress-form-builder/?gclid=CjwKCAjwos-HBhB3EiwAe4xM9ydyoBCkzUqesymKeyrb3kpe61urCy9jPfGpa2nA8zZeSLLKg2FughoCWNEQAvD_BwE">Contact form: plugin WPForms lite</a></li>
+    <li><a href="https://www.wpgmaps.com/">Mappa: WP Google Maps</a></li>
+    <li><a href="https://kenwheeler.github.io/slick/">Carosello dei loghi: slick.js</a></li>
 </ul>
 
 <h3 id="contact">Contact</h3>
@@ -40,7 +40,6 @@ Non è presente molto contenuto ma ho cercado di rendere il tutto il più intera
 <h3 id="acknowledgements">Acknowledgements</h3>
 
 <ul> 
-    <li><a href="#">Slick Carousel</a></li>
-    <li><a href="#">jQuery</a></li>
-    <li><a href="#">Font Awesome</a></li>
+    <li><a href="https://jquery.com/">jQuery</a></li>
+    <li><a href="https://fontawesome.com/">Font Awesome</a></li>
 </ul>
