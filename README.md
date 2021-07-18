@@ -35,7 +35,7 @@ Non è presente molto contenuto ma ho cercado di rendere il tutto il più intera
 <h3 id="contact">Contact</h3>
 <p>Markiyan Kmit - https://www.instagram.com/markkmit/</p>
 
-<p>Project Link: https://github.com/your_username/repo_name</p>
+<p>Project Link: https://github.com/mark1yan0/s2i_wp_project</p>
 
 <h3 id="acknowledgements">Acknowledgements</h3>
 
